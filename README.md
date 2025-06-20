@@ -78,7 +78,7 @@ Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus
 
 Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus >> cfggameplay.json
 
-"WorldsData":
+	"WorldsData":
 	{
 		"lightingConfig": 2,
 		"objectSpawnersArr": [],
