@@ -90,6 +90,7 @@ Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus >> cfggameplay
 Edit the objectSpawnerArr to look like this:
 
    "objectSpawnersArr": ["custom/TisyBunker.json", "TisyBunkerLoot4.json"],
+   
 If you're already calling other custom JSONs to spawn items or buildings, please remember to separate them with commas except for the very last json. i.e.:
 
 "objectSpawnersArr": ["custom/TisyBunker.json", "TisyBunkerLoot4.json", "custom/differentfile.json"],
