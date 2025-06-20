@@ -34,7 +34,7 @@ I always recommend validating your files at:
 
 
 
-1.) Stop Your Server!!
+1.) STOP YOUR SERVER!!
 
 Ensure your server is offline before proceeding.
 
@@ -42,7 +42,7 @@ Ensure your server is offline before proceeding.
 
 
 
-2.) Activate cfggameplay.json
+2.) ACTIVATE CFGGAMEPLAY.JSON
 
 **Nitrado Console Servers:
 Settings >> General >> tick Enable cfggameplay.json.**
@@ -65,7 +65,7 @@ Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus
 
 
 
-4.) Upload your files:
+4.) UPLOAD YOUR FILES:
 
 **Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus >> custom >> "Upload Bunker + All loot fiiles"**
 (If a custom folder doesn't exist, create one.)
@@ -74,7 +74,7 @@ Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus
 
 
 
-5.) Call to the custom files using the cfggameplay.json
+5.) CALL TO THE CUSTOM FILES USING THE CFGGAMEPLAY.JSON
 
 Tools >> File Browser >> dayzxb_missions >> dayzOffline.Chernarus >> cfggameplay.json
 
@@ -117,7 +117,7 @@ EXAMPLE OF YOUR NEW FILE
 
 
 
-7.) Restart your server and your new bunker with all items will be ready for use.
+7.) RESTART YOUR SERVER AND YOUR NEW BUNKER WITH ALL ITEMS WILL BE READY FOR USE.
 
 with all the loot files installed, you only need to call to one at a time. When you are ready to change your loot, simply stop your server, go to your cfgameplay.json and change the number on the TisyBunkerLoot file to which ever you desire. [I change weekly and go in ascending order, restarting to one after i reach 4]
 
